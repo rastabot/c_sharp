@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyBasicIOTest</name>
+    </assembly>
+    <members>
+        <member name="T:MyBasicIO.Program">
+            <summary>
+            This calss is 
+            </summary>
+        </member>
+        <member name="F:MyBasicIO.Program.myBool">
+            <summary>
+            Members of a class:
+            1. variables
+            2. Properties - get set
+            3. Methods include constructors
+            </summary>
+        </member>
+    </members>
+</doc>

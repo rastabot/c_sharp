@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\bin\Debug\MyString.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\bin\Debug\MyString.exe
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\bin\Debug\MyString.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\obj\Debug\MyString.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\obj\Debug\MyString.exe
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyString\obj\Debug\MyString.pdb

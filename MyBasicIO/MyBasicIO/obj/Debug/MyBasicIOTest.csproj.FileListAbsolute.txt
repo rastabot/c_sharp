@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIOTest.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIOTest.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIOTest.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIOTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIOTest.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIOTest.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIOTest.xml

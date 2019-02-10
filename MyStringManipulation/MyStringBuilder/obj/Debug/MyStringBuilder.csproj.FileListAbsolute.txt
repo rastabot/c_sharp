@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\bin\Debug\MyStringBuilder.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\bin\Debug\MyStringBuilder.exe
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\bin\Debug\MyStringBuilder.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\obj\Debug\MyStringBuilder.exe
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\obj\Debug\MyStringBuilder.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyStringManipulation\MyStringBuilder\obj\Debug\MyStringBuilder.csprojResolveAssemblyReference.cache

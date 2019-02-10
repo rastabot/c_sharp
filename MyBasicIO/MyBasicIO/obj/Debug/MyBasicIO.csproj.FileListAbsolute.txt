@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIO.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIO.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\bin\Debug\MyBasicIO.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIO.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicIO\MyBasicIO\obj\Debug\MyBasicIO.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\bin\Debug\MyBasicDataTypes.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\bin\Debug\MyBasicDataTypes.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\bin\Debug\MyBasicDataTypes.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\obj\Debug\MyBasicDataTypes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\obj\Debug\MyBasicDataTypes.exe
+c:\users\user\documents\visual studio 2017\Projects\MyBasicDataTypes\MyBasicDataTypes\obj\Debug\MyBasicDataTypes.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\bin\Debug\MyIteratorsAndConditions.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\bin\Debug\MyIteratorsAndConditions.exe
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\bin\Debug\MyIteratorsAndConditions.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\obj\Debug\MyIteratorsAndConditions.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\obj\Debug\MyIteratorsAndConditions.exe
+c:\users\user\documents\visual studio 2017\Projects\MyIteratoraAndConditions\MyIteratoraAndConditions\obj\Debug\MyIteratorsAndConditions.pdb
