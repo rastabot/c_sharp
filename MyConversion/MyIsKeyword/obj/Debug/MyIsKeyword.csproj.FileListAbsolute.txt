@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyIsKeyword\bin\Debug\MyIsKeyword.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyIsKeyword\bin\Debug\MyIsKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyIsKeyword\bin\Debug\MyIsKeyword.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyIsKeyword\obj\Debug\MyIsKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyIsKeyword\obj\Debug\MyIsKeyword.pdb

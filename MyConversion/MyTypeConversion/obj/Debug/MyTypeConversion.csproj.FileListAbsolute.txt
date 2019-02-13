@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\bin\Debug\MyTypeConversion.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\bin\Debug\MyTypeConversion.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\bin\Debug\MyTypeConversion.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\obj\Debug\MyTypeConversion.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\obj\Debug\MyTypeConversion.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyTypeConversion\obj\Debug\MyTypeConversion.pdb

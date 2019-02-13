@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\bin\Debug\MyAsKeyword.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\bin\Debug\MyAsKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\bin\Debug\MyAsKeyword.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\obj\Debug\MyAsKeyword.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\obj\Debug\MyAsKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConversion\MyAsKeyword\obj\Debug\MyAsKeyword.pdb

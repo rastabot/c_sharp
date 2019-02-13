@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\bin\Debug\MyArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\bin\Debug\MyArray.exe
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\bin\Debug\MyArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\obj\Debug\MyArray.exe
+c:\users\user\documents\visual studio 2017\Projects\MyArray\MyArray\obj\Debug\MyArray.pdb
