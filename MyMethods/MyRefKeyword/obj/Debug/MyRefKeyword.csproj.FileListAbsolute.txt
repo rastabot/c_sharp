@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyRefKeyword\bin\Debug\MyRefKeyword.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyRefKeyword\bin\Debug\MyRefKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyRefKeyword\bin\Debug\MyRefKeyword.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyRefKeyword\obj\Debug\MyRefKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyRefKeyword\obj\Debug\MyRefKeyword.pdb

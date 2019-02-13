@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\bin\Debug\MyMethodArguments.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\bin\Debug\MyMethodArguments.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\bin\Debug\MyMethodArguments.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\obj\Debug\MyMethodArguments.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\obj\Debug\MyMethodArguments.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyMethodArguments\obj\Debug\MyMethodArguments.pdb

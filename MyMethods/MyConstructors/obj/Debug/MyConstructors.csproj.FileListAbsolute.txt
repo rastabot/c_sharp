@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\bin\Debug\MyConstructors.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\bin\Debug\MyConstructors.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\bin\Debug\MyConstructors.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\obj\Debug\MyConstructors.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\obj\Debug\MyConstructors.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyConstructors\obj\Debug\MyConstructors.pdb

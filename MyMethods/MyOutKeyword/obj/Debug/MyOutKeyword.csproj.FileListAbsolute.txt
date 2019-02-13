@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyOutKeyword\bin\Debug\MyOutKeyword.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyOutKeyword\bin\Debug\MyOutKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyOutKeyword\bin\Debug\MyOutKeyword.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyOutKeyword\obj\Debug\MyOutKeyword.exe
+c:\users\user\documents\visual studio 2017\Projects\MyMethods\MyOutKeyword\obj\Debug\MyOutKeyword.pdb
