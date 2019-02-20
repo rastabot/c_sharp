@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\bin\Debug\MyIEnumerableEnumerator.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\bin\Debug\MyIEnumerableEnumerator.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\bin\Debug\MyIEnumerableEnumerator.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\obj\Debug\MyIEnumerableEnumerator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\obj\Debug\MyIEnumerableEnumerator.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIEnumerableEnumerator\obj\Debug\MyIEnumerableEnumerator.pdb

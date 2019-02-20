@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\bin\Debug\MyClashName.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\bin\Debug\MyClashName.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\bin\Debug\MyClashName.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\obj\Debug\MyClashName.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\obj\Debug\MyClashName.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyClashName\obj\Debug\MyClashName.pdb

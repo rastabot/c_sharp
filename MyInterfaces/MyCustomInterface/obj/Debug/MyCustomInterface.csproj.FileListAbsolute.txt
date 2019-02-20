@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\bin\Debug\MyCustomInterface.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\bin\Debug\MyCustomInterface.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\bin\Debug\MyCustomInterface.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\obj\Debug\MyCustomInterface.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\obj\Debug\MyCustomInterface.exe
+c:\users\user\documents\visual studio 2017\Projects\MyInterfaces\MyCustomInterface\obj\Debug\MyCustomInterface.pdb
