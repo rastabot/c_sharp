@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\bin\Debug\MyAbstract.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\bin\Debug\MyAbstract.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\bin\Debug\MyAbstract.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\obj\Debug\MyAbstract.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\obj\Debug\MyAbstract.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyAbstract\obj\Debug\MyAbstract.pdb

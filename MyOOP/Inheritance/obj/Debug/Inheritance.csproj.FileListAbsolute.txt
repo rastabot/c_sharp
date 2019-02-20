@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\Inheritance\bin\Debug\Inheritance.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\Inheritance\obj\Debug\Inheritance.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\Inheritance\obj\Debug\Inheritance.pdb

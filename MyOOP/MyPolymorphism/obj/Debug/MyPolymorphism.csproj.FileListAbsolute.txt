@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\bin\Debug\MyPolymorphism.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\bin\Debug\MyPolymorphism.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\bin\Debug\MyPolymorphism.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\obj\Debug\MyPolymorphism.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\obj\Debug\MyPolymorphism.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyPolymorphism\obj\Debug\MyPolymorphism.pdb

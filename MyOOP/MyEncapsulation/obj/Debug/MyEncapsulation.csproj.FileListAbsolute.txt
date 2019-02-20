@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\bin\Debug\MyEncapsulation.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\bin\Debug\MyEncapsulation.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\bin\Debug\MyEncapsulation.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\obj\Debug\MyEncapsulation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\obj\Debug\MyEncapsulation.exe
+c:\users\user\documents\visual studio 2017\Projects\MyOOP\MyEncapsulation\obj\Debug\MyEncapsulation.pdb
