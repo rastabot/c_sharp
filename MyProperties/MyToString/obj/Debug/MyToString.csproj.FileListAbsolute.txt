@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyToString\bin\Debug\MyToString.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyToString\bin\Debug\MyToString.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyToString\bin\Debug\MyToString.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyToString\obj\Debug\MyToString.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyToString\obj\Debug\MyToString.pdb

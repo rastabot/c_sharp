@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\bin\Debug\MyAutomaticProperties.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\bin\Debug\MyAutomaticProperties.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\bin\Debug\MyAutomaticProperties.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\obj\Debug\MyAutomaticProperties.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\obj\Debug\MyAutomaticProperties.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyAutomaticProperties\obj\Debug\MyAutomaticProperties.pdb

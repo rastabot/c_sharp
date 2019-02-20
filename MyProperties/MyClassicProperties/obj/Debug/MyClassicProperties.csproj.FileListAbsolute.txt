@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\bin\Debug\MyClassicProperties.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\bin\Debug\MyClassicProperties.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\bin\Debug\MyClassicProperties.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\obj\Debug\MyClassicProperties.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\obj\Debug\MyClassicProperties.exe
+c:\users\user\documents\visual studio 2017\Projects\MyProperties\MyClassicProperties\obj\Debug\MyClassicProperties.pdb
