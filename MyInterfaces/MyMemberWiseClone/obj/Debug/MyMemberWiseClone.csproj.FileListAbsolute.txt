@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\bin\Debug\MyMemberWiseClone.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\bin\Debug\MyMemberWiseClone.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\bin\Debug\MyMemberWiseClone.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\obj\Debug\MyMemberWiseClone.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\obj\Debug\MyMemberWiseClone.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyMemberWiseClone\obj\Debug\MyMemberWiseClone.pdb

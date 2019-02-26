@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\bin\Debug\MyICloneable.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\bin\Debug\MyICloneable.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\bin\Debug\MyICloneable.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\obj\Debug\MyICloneable.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\obj\Debug\MyICloneable.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyInterfaces\MyIClonable\obj\Debug\MyICloneable.pdb

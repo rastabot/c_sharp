@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // for non generic collections 
-using System.Collections;
+using System.Collections; // IEnumerable + IEnumerator = foreach()
 
 namespace MyIEnumerableEnumerator
 {
