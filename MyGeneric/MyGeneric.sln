@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenericInterface", "MyGen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyList", "MyList\MyList.csproj", "{60545D78-58B9-47F5-BBBB-7F457E500CA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDefaultKeyword", "MyDefaultKeyword\MyDefaultKeyword.csproj", "{BB570098-D68F-4022-A1DD-EF65EB70B560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConstraints", "MyConstraints\MyConstraints.csproj", "{AD0B8252-5D31-41A2-89D0-010C113653B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{60545D78-58B9-47F5-BBBB-7F457E500CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60545D78-58B9-47F5-BBBB-7F457E500CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60545D78-58B9-47F5-BBBB-7F457E500CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB570098-D68F-4022-A1DD-EF65EB70B560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB570098-D68F-4022-A1DD-EF65EB70B560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB570098-D68F-4022-A1DD-EF65EB70B560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB570098-D68F-4022-A1DD-EF65EB70B560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0B8252-5D31-41A2-89D0-010C113653B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0B8252-5D31-41A2-89D0-010C113653B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0B8252-5D31-41A2-89D0-010C113653B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0B8252-5D31-41A2-89D0-010C113653B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

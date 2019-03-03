@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\bin\Debug\MyDefaultKeyword.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\bin\Debug\MyDefaultKeyword.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\bin\Debug\MyDefaultKeyword.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\obj\Debug\MyDefaultKeyword.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\obj\Debug\MyDefaultKeyword.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyGeneric\MyDefaultKeyword\obj\Debug\MyDefaultKeyword.pdb

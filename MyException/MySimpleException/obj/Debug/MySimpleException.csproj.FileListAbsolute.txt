@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\bin\Debug\MySimpleException.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\bin\Debug\MySimpleException.exe
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\bin\Debug\MySimpleException.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\obj\Debug\MySimpleException.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\obj\Debug\MySimpleException.exe
+c:\users\user\documents\visual studio 2017\Projects\MyException\MySimpleException\obj\Debug\MySimpleException.pdb
