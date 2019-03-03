@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\bin\Debug\MyLambdaVariableScope.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\bin\Debug\MyLambdaVariableScope.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\bin\Debug\MyLambdaVariableScope.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\obj\Debug\MyLambdaVariableScope.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\obj\Debug\MyLambdaVariableScope.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyLambdaVariableScope\obj\Debug\MyLambdaVariableScope.pdb

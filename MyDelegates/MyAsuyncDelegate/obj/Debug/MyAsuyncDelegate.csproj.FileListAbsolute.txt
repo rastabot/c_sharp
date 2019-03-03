@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\bin\Debug\MyAsuyncDelegate.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\bin\Debug\MyAsuyncDelegate.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\bin\Debug\MyAsuyncDelegate.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\obj\Debug\MyAsuyncDelegate.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\obj\Debug\MyAsuyncDelegate.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsuyncDelegate\obj\Debug\MyAsuyncDelegate.pdb

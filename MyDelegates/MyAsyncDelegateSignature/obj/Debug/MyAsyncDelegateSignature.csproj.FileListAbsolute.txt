@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\bin\Debug\MyAsyncDelegateSignature.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\bin\Debug\MyAsyncDelegateSignature.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\bin\Debug\MyAsyncDelegateSignature.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\obj\Debug\MyAsyncDelegateSignature.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\obj\Debug\MyAsyncDelegateSignature.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAsyncDelegateSignature\obj\Debug\MyAsyncDelegateSignature.pdb

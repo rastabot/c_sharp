@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\bin\Debug\MyAnonymousMethod.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\bin\Debug\MyAnonymousMethod.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\bin\Debug\MyAnonymousMethod.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\obj\Debug\MyAnonymousMethod.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\obj\Debug\MyAnonymousMethod.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyDelegates\MyAnonymousMethod\obj\Debug\MyAnonymousMethod.pdb
