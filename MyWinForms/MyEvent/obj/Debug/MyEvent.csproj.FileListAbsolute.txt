@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\bin\Debug\MyEvent.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\bin\Debug\MyEvent.exe
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\bin\Debug\MyEvent.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.frmMain.resources
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.exe
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.frmSecond.resources
+c:\users\user\documents\visual studio 2017\Projects\MyWinForms\MyEvent\obj\Debug\MyEvent.frmCarDetails.resources

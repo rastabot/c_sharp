@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\bin\Debug\MyPLINQWin.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\bin\Debug\MyPLINQWin.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\bin\Debug\MyPLINQWin.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQWin\obj\Debug\MyPLINQWin.frmMain.resources

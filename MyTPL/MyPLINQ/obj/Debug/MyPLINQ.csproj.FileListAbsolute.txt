@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\bin\Debug\MyPLINQ.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\bin\Debug\MyPLINQ.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\bin\Debug\MyPLINQ.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\obj\Debug\MyPLINQ.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\obj\Debug\MyPLINQ.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyPLINQ\obj\Debug\MyPLINQ.pdb
