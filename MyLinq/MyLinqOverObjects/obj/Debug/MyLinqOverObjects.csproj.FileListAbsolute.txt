@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\bin\Debug\MyLinqOverObjects.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\bin\Debug\MyLinqOverObjects.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\bin\Debug\MyLinqOverObjects.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\obj\Debug\MyLinqOverObjects.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\obj\Debug\MyLinqOverObjects.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyLinqOverObjects\obj\Debug\MyLinqOverObjects.pdb

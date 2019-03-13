@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\bin\Debug\MyDefferedExecution.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\bin\Debug\MyDefferedExecution.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\bin\Debug\MyDefferedExecution.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\obj\Debug\MyDefferedExecution.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\obj\Debug\MyDefferedExecution.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyDefferedExecution\obj\Debug\MyDefferedExecution.pdb

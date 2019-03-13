@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyImmediateExecution\bin\Debug\MyImmediateExecution.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyImmediateExecution\bin\Debug\MyImmediateExecution.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyImmediateExecution\bin\Debug\MyImmediateExecution.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyImmediateExecution\obj\Debug\MyImmediateExecution.exe
+c:\users\user\documents\visual studio 2017\Projects\MyLinq\MyImmediateExecution\obj\Debug\MyImmediateExecution.pdb
