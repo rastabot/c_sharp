@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\bin\Debug\MyParallelInvoke.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\bin\Debug\MyParallelInvoke.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\bin\Debug\MyParallelInvoke.pdb
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\obj\Debug\MyParallelInvoke.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\obj\Debug\MyParallelInvoke.exe
+C:\Users\user\documents\visual studio 2017\Projects\MyTPL\MyParallelInvoke\obj\Debug\MyParallelInvoke.pdb
